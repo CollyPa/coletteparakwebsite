@@ -1,4 +1,6 @@
 #!/bin/bash 
+set -u
+
 cd Documents/Portfolio
 
 git add .
